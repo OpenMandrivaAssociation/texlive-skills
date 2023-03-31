@@ -1,6 +1,6 @@
 Name:		texlive-skills
 Version:	56734
-Release:	1
+Release:	2
 Summary:	Create proficiency tests
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skills
