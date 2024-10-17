@@ -3,7 +3,7 @@ Version:	56734
 Release:	2
 Summary:	Create proficiency tests
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skills
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/skills
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/skills.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/skills.doc.r%{version}.tar.xz
